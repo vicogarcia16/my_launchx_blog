@@ -1,6 +1,8 @@
+---
 title: "Mi experiencia en Launch-X"
 date: 2022-04-05
 description: 'Contando mi travesia a través del Launch-X de Innovación Virtual'
+---
 
 Desde que inicio este camino diseñado para ser un desarrollador full stack, he tenido tanto experiencias buenas, como experiencias malas. 
 Dentro de mis experiencias buenas he conseguido recapitular y repasar la lógica de programación en un lenguaje muy accesible como Python. Fue enriquecedora la experiencia

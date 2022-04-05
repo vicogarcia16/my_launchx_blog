@@ -5,17 +5,16 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy yo?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+En terminos técnicos podria definirme como: 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Ingeniero en Computación con Maestría en Ingeniería TIC's
+> con experiencia en el desarrollador de software y gestión de bases de datos.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Sin embargo tambien debo decir que el universo me ha provisto de otros dones. 
+Soy músico desde hace 20 años aproximadamente y escritor poeta. De hecho, me
+gustaria compartirles mi blog personal [Suspiros y Tormentos](www.vicogarcia.com). Es ahi donde,
+cuando el código no compila, me refugio al expresar todo lo que soy y lo que siento.
+Espero te guste mi forma de ver la vida y que podamos compartir algo mas que código.
 

@@ -15,4 +15,4 @@ Un desarrollador de software independiente de los valores que debe poseer como:
 - Dedicación
 - Confianza
 
-Tambien deberia tener **humanidad**
+Tambien deberia tener **humanidad**. Muchas de las veces solo nos enfocamos en sacar código de nuestras computadoras sin saber o conocer a la persona que va estar interactuando a traves de él.
